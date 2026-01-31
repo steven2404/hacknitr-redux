@@ -8,7 +8,6 @@ import { GallerySection } from '@/components/GallerySection';
 import { TimelineSection } from '@/components/TimelineSection';
 import { SponsorsSection } from '@/components/SponsorsSection';
 import { FAQSection } from '@/components/FAQSection';
-import { Footer } from '@/components/Footer';
 
 const Index = () => {
   return (
