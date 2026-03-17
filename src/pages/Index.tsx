@@ -9,7 +9,7 @@ import { TimelineSection } from '@/components/TimelineSection';
 import { SponsorsSection } from '@/components/SponsorsSection';
 import { FAQSection } from '@/components/FAQSection';
 
-  return (
+  return 
     <div className="min-h-screen bg-background text-foreground overflow-x-hidden">
       <Navbar />
       
